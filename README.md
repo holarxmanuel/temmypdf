@@ -1,2 +1,1 @@
-# temmypdf
-Just a simple pdf converter 
+The homepage of my pdfconverter package
